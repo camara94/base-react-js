@@ -4,3 +4,5 @@ React est l'un des frameworks front-end le plus populaire pour les applications 
 ![react](images/reactjs.png)
 ## Qui utilise React ?
 ![qui](images/quiutilisereactjs.png)
+## Prérequis
+![prerequis](images/prerequis.png)
