@@ -14,3 +14,5 @@ Les composants vous permettent de découper l’interface utilisateur en éléme
 ![syntaxe](images/syntaxecomposant.png)
 ## Rendu
 ![rendu](images/rendu.png)
+## Types de Composants
+![composant](images/typescomposants.png)
